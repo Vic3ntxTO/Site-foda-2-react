@@ -5,7 +5,9 @@ function Revelar2() {
     <div>
       <h1>Resposta(Biologia)</h1>
       
-      <p>Porque é muito longe para ir andando!</p>
+      <p>Porque é muito longe para ir andando! é
+        
+      </p>
     </div>
   );
 }
